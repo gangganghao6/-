@@ -1,9 +1,6 @@
 #include <iostream>
 #include <string>
-#include <cctype>
 #include <vector>
-#include <iterator>
-#include <cstddef>
 #include <conio.h>   //即时输入
 #include <cstdlib>   //清屏
 #include <stdexcept> //异常处理
